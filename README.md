@@ -1,4 +1,4 @@
-#Project : Store Items sales focasting
+# Project : Store Items sales focasting
 
 
 The project aims to forecast sales of items which could 
