@@ -1,5 +1,5 @@
-# PredictiveAnalytics
-Store Items sales focasting
+# Store Items sales focasting
+
 
 The project aims to forecast sales of items which could 
 be leveraged to forecast future sales and help businesses optimize their inventory based on the 
